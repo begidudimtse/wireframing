@@ -1,1 +1,3 @@
-# wireframing
+# Introduction to Wireframing
+
+Wireframing is the process of creating a simple, visual blueprint of a digital product’s layout and structure before moving into detailed design or development. It focuses on the arrangement of elements, user flow, and functionality rather than colors, typography, or graphics. By stripping design down to its essentials, wireframes help teams and stakeholders align early on user needs, navigation, and core features. This makes wireframing a critical step in the design process, as it reduces misunderstandings, speeds up iterations, and ensures that the final product is both user-friendly and aligned with project goals.
