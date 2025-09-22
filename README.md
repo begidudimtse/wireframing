@@ -105,3 +105,23 @@ Figma stands out as a recommended tool for wireframing because:
  Version Control: Automatically saves file history, so changes can be tracked and restored easily.
  Cross-Platform: Runs on any browser (Windows, Mac, Linux, or even mobile), removing system restrictions.
  Reusable Components: Designers can create and reuse buttons, icons, and layouts, ensuring consistency across screens.
+
+ # Benefits of Wireframing in Software Development
+
+Wireframing plays a critical role in the software development lifecycle (SDLC) because it acts as the visual blueprint of an application before any coding begins. By creating a simplified representation of the system, teams can align on structure, features, and user experience early on, reducing costly changes later.
+
+1. Guides the Design Process
+
+Wireframes allow designers and developers to visualize the user journey step by step. For example, in a hotel booking system, a wireframe might show the flow from searching for hotels → viewing details → making a reservation → completing checkout. This ensures that all necessary screens and interactions are accounted for before the design is finalized.
+
+2. Facilitates Communication Among Team Members
+
+Wireframes provide a shared reference point for stakeholders, designers, and developers. Instead of relying on abstract descriptions, the team can point to specific elements on the wireframe (e.g., “the checkout button should appear here” or “the login form needs two fields only”). This reduces misunderstandings and ensures everyone is aligned.
+
+3. Encourages Early Feedback and Iteration
+
+Because wireframes are quick to build, teams can gather feedback from users and stakeholders early in the process. For example, if customers find the booking flow confusing in a low-fidelity wireframe, changes can be made instantly—saving development time and effort.
+
+4. Supports Requirement Validation
+
+Wireframes visually validate functional and non-functional requirements. For instance, the booking system wireframe may demonstrate the requirement that users must be able to view hotel details before confirming a reservation. By reviewing the wireframe, analysts can confirm that the requirement is represented correctly.
