@@ -71,7 +71,7 @@ When Used:
 Later in the design process, once requirements and layouts are validated.
 
 Example in your case: The Figma screens you shared — with hotel pictures, login forms, buttons, and branding — are high-fidelity wireframes (or mockups).
-# Type of Wireframe in the Given Frame
+# Types of Wireframes
 
 From the Figma screenshot you shared, the design includes real images (hotels), text (sign in, join, reservation), buttons, branding colors (green/white theme), and structured layouts. This makes it a High-Fidelity Wireframe.
 
